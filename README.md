@@ -12,7 +12,7 @@ A solid foundation of mathematics is required to get ready for Data Science.
 
 [Demonstrations of the fundamental concepts from multivariable calculus](https://github.com/Mason-McGough/MultivariableCalculus)
 
-### Linear Algebra: the mathematics of matrices and date.
+### Linear Algebra: the mathematics of matrices and data.
 
 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 
