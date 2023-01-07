@@ -76,6 +76,8 @@ Numerical analysis is a branch of mathematics that deals with the design, analys
 
 ### Computational Thinking
 
+Computational thinking is a way of solving problems, designing systems, and understanding human behavior that draws on concepts fundamental to computer science. It involves breaking down a problem into smaller, more manageable pieces, identifying patterns and relationships that can help solve the problem, and using logical reasoning to come up with a solution. The goal of computational thinking is to take complex problems and find ways to solve them in a systematic, efficient way.
+
 [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
 [Composing Programs](https://composingprograms.com/)
@@ -85,6 +87,8 @@ Numerical analysis is a branch of mathematics that deals with the design, analys
 
 ### Computational Mathematics
 
+Computational mathematics, also known as mathematical computing or scientific computing, is the study of algorithms and methods for the numerical solution of mathematical problems. It is a field that encompasses a wide range of topics, including numerical analysis, scientific computing, and mathematical modeling.
+
 [Multivariable calculus with Python](https://github.com/Mason-McGough/MultivariableCalculus)
 
 [Maths with Python](https://maths-with-python.readthedocs.io/en/latest/index.html)
@@ -92,5 +96,7 @@ Numerical analysis is a branch of mathematics that deals with the design, analys
 [Mathematical Python](https://patrickwalls.github.io/mathematicalpython/)
 
 ### Computational Science
+
+Computational science is a field that uses advanced computing and modeling techniques to study and solve problems in science, engineering, and other fields. It involves the development and use of computer simulations, algorithms, and other tools to analyze and understand complex systems and phenomena.
 
 [Introduction to Computational Science](https://ics.wofford-ecs.org/)
