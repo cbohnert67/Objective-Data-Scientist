@@ -26,7 +26,7 @@ I compiled best material (web and books) I find useful for that purpose. So let'
 
 ## Year 1. Mathematical & Computational Foundations
 
-Choose one or more material from each topic and expect to work for at least one year in order to learn these concepts and tools well!
+Choose one or more material from each topic. Expect to work for at least one year in order to learn these concepts and tools well!
 
 
 ### Multivariable Calculus:
@@ -76,7 +76,7 @@ Numerical analysis is a branch of mathematics that deals with the design, analys
 
 [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/)
 
-### Computational Thinking
+### Programming & Computational Thinking
 
 Computational thinking is a way of solving problems, designing systems, and understanding human behavior that draws on concepts fundamental to computer science. It involves breaking down a problem into smaller, more manageable pieces, identifying patterns and relationships that can help solve the problem, and using logical reasoning to come up with a solution. The goal of computational thinking is to take complex problems and find ways to solve them in a systematic, efficient way.
 
