@@ -20,7 +20,9 @@ Here are some requirements to improve your chances of success in this field:
 
 - Stay up to date: Data science is a rapidly evolving field, and it is important to stay up to date with the latest technologies and techniques. Consider taking online courses or attending conferences to continue learning and staying current.
 
-That curriculum is designed to learn Data Science for several years. I compiled best material (web and books) I find useful for that purpose. 
+The curriculum is designed for a several years log journey in Data Science. 
+
+I compiled best material (web and books) I find useful for that purpose. So let's get started and jump right into foundations!
 
 ## Step 1. Mathematical & Computational Foundations
 
@@ -63,7 +65,6 @@ Probability and statistics are two closely related fields of study that deal wit
 
 Mathematical analysis is a branch of mathematics that deals with the study of limits and the properties of functions. It is a broad subject that includes many subfields such as calculus, differential equations, and real analysis.
 
-
 [Applied Analysis](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html)
 
 ### Numerical Methods:
@@ -75,6 +76,11 @@ Numerical analysis is a branch of mathematics that deals with the design, analys
 [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/)
 
 ### Computational Thinking
+
+
+
+
+
 
 ### Computational Mathematics
 
