@@ -37,7 +37,6 @@ Multivariable calculus is a branch of mathematics that deals with functions of m
 
 [Multivariable & Vector Analysis](http://www.williamchen-mathematics.info/lnmvafolder/lnmva.html)
 
-[Demonstrations of the fundamental concepts from multivariable calculus](https://github.com/Mason-McGough/MultivariableCalculus)
 
 ### Linear Algebra: the mathematics of matrices and data.
 
@@ -77,12 +76,21 @@ Numerical analysis is a branch of mathematics that deals with the design, analys
 
 ### Computational Thinking
 
+[The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 
+[Composing Programs](https://composingprograms.com/)
 
-
+[Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/)
 
 
 ### Computational Mathematics
 
+[Multivariable calculus with Python](https://github.com/Mason-McGough/MultivariableCalculus)
+
+[Maths with Python](https://maths-with-python.readthedocs.io/en/latest/index.html)
+
+[Mathematical Python](https://patrickwalls.github.io/mathematicalpython/)
+
 ### Computational Science
 
+[Introduction to Computational Science](https://ics.wofford-ecs.org/)
