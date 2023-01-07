@@ -10,6 +10,8 @@ A solid foundation of mathematics is required to get ready for Data Science.
 
 [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/)
 
+[Multivariable & Vector Analysis](http://www.williamchen-mathematics.info/lnmvafolder/lnmva.html)
+
 [Demonstrations of the fundamental concepts from multivariable calculus](https://github.com/Mason-McGough/MultivariableCalculus)
 
 ### Linear Algebra: the mathematics of matrices and data.
@@ -34,6 +36,9 @@ A solid foundation of mathematics is required to get ready for Data Science.
 
 [Applied Analysis](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html)
 
+### Numerical Methods: the mathematics of numerics.
+
+[Holistic Numerical Methods](https://nm.mathforcollege.com/)
 
 ## 2. Computational Foundations
 
