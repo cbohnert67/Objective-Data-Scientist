@@ -24,4 +24,4 @@ The curriculum is designed for a several years log journey in Data Science.
 
 I compiled best material (web and books) I find useful for that purpose. So let's get started and jump right into foundations!
 
-## [Year 1 : Mathematical & Computational Foundations]()
+### [Year 1 : Mathematical & Computational Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/YEAR1.md)
