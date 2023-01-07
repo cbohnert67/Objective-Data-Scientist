@@ -78,7 +78,7 @@ Numerical analysis is a branch of mathematics that deals with the design, analys
 
 Computational thinking is a way of solving problems, designing systems, and understanding human behavior that draws on concepts fundamental to computer science. It involves breaking down a problem into smaller, more manageable pieces, identifying patterns and relationships that can help solve the problem, and using logical reasoning to come up with a solution. The goal of computational thinking is to take complex problems and find ways to solve them in a systematic, efficient way.
 
-[The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
+[Think Python](https://www.greenteapress.com/thinkpython/thinkpython.html)
 
 [Composing Programs](https://composingprograms.com/)
 
