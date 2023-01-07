@@ -2,7 +2,7 @@
 
 A carefully designed plan for becoming a good Data Scientist with Python.
 
-Data Science is a new and complex field. It appears as an extension of statistical modeling using programming and domain expertise.
+Data Science is a new and complex field. It appears as an extension of statistical modeling and uses programming and software engineering to solve in domain expertise problems.
 
 *Data Scientist are better at statistics than any software engineer and better at software engineering than any statistician.*
 
