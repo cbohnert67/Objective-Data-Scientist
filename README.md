@@ -21,10 +21,17 @@ A solid foundation of mathematics is required to get ready for Data Science.
 
 [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 
+[Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 
 ### Probability & Statistics
 
+[Introduction to Modern Statistics](https://www.openintro.org/book/ims/)
 
+[SEEING THEORY](https://seeing-theory.brown.edu/index.html#firstPage)
+
+[Introduction to Probability for Data Science](https://probability4datascience.com/index.html)
+
+[Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
 
 ### Applied Analysis
 
