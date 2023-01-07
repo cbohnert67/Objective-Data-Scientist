@@ -2,9 +2,19 @@
 
 A carefully selected set of learning material for becoming a skilled Data Scientist with Python.
 
-## 1. Mathematical Foundations
+Data Science is a new and complex field. It appears as an extension of statistical modeling using programming and domain expertise.
 
-A solid foundation of mathematics is required to get ready for Data Science.
+Data Scientist are better at statistics than any software engineer and better at software engineering than any statistician.
+
+With the explosion of available data and computational power, machine learning techniques and tools are developed fast.
+
+It is a life long learning journey to get skilled as a Data Scientist. 
+
+One has to build solid foundatiosn either in applied mathematics and programming.
+
+This is hence the first step in your Data Science journey. Expect at least one year to learn these concepts and tools!
+
+## Step 1. Mathematical & Computational Foundations
 
 ### Multivariable Calculus: the mathematics of change in several dimensions.
 
@@ -39,10 +49,6 @@ A solid foundation of mathematics is required to get ready for Data Science.
 ### Numerical Methods: the mathematics of numerics.
 
 [Holistic Numerical Methods](https://nm.mathforcollege.com/)
-
-## 2. Computational Foundations
-
-A solid foundation in computations is required to get ready for Data Science.
 
 ### Computational Thinking
 
