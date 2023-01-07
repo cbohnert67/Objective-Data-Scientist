@@ -27,7 +27,7 @@ A solid foundation of mathematics is required to get ready for Data Science.
 
 [Introduction to Modern Statistics](https://www.openintro.org/book/ims/)
 
-[SEEING THEORY](https://seeing-theory.brown.edu/index.html#firstPage)
+[Seeing Theory](https://seeing-theory.brown.edu/index.html#firstPage)
 
 [Introduction to Probability for Data Science](https://probability4datascience.com/index.html)
 
