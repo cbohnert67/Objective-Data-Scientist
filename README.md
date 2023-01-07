@@ -1,12 +1,12 @@
 # Objective Data Scientist !
 
-A carefully designed learning plan for becoming a skilled Data Scientist with Python.
+A carefully selected learning resource for becoming a skilled Data Scientist with Python.
 
 ## Mathematical Foundations
 
 A solid foundation of mathematics is required to get ready for Data Science.
 
-### Multivariable Calculus
+### Multivariable Calculus: the mathematics of change in several dimensions.
 
 [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/)
 
@@ -15,7 +15,7 @@ A solid foundation of mathematics is required to get ready for Data Science.
 [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528)
 
 
-### Linear Algebra
+### Linear Algebra: the mathematics of matrices and date.
 
 [Immersive Linear Algebra](http://immersivemath.com/ila/index.html)
 
@@ -23,7 +23,7 @@ A solid foundation of mathematics is required to get ready for Data Science.
 
 [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 
-### Probability & Statistics
+### Probability & Statistics: the mathematics of uncertainty and noised data.
 
 [Introduction to Modern Statistics](https://www.openintro.org/book/ims/)
 
@@ -33,7 +33,7 @@ A solid foundation of mathematics is required to get ready for Data Science.
 
 [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
 
-### Applied Analysis
+### Applied Analysis: the mathematics of non linear function spaces.
 
 [Applied Analysis](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html)
 
