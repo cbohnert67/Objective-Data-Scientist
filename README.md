@@ -38,7 +38,7 @@ Multivariable calculus is a branch of mathematics that deals with functions of m
 [Multivariable & Vector Analysis](http://www.williamchen-mathematics.info/lnmvafolder/lnmva.html)
 
 
-### Linear Algebra: the mathematics of matrices and data.
+### Linear Algebra:
 
 Linear algebra is a branch of mathematics that deals with linear equations and their representations in vector spaces. It is a fundamental mathematical toolkit for understanding systems of linear equations, as well as for studying advanced topics such as least squares methods, eigenvalues, and singular value decompositions.
 
