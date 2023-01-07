@@ -1,18 +1,23 @@
 # Objective Data Scientist !
 
-A carefully selected set of learning material for becoming a skilled Data Scientist with Python.
+A carefully designed plan for becoming a good Data Scientist with Python.
 
 Data Science is a new and complex field. It appears as an extension of statistical modeling using programming and domain expertise.
 
-Data Scientist are better at statistics than any software engineer and better at software engineering than any statistician.
+*Data Scientist are better at statistics than any software engineer and better at software engineering than any statistician.*
 
-With the explosion of available data and computational power, machine learning techniques and tools are developed fast.
+Becoming a good data scientist requires a combination of education, skills, and experience. Here are some steps you can take to improve your chances of success in this field:
 
-It is a life long learning journey to get skilled as a Data Scientist. 
+Get a strong foundation in mathematics and computer science: Data science involves working with large amounts of data, and a strong foundation in mathematics and computer science is essential for understanding and applying statistical and machine learning techniques.
 
-One has consequently to build solid foundations either in applied mathematics and programming.
+Learn programming languages: Data scientists need to be proficient in at least one programming language, such as Python or R, in order to manipulate and analyze data. It is also helpful to have some knowledge of SQL for working with databases.
 
-This is hence the first step in your Data Science journey.
+Acquire statistical and machine learning skills: Data science involves applying statistical and machine learning techniques to extract insights from data. It is important to have a good understanding of these techniques and be able to apply them effectively.
+
+Gain experience: As with any field, experience is key to becoming a good data scientist. Consider taking on data science projects as part of your coursework or as a side project, and try to get internships or entry-level positions in the field to gain practical experience.
+
+Stay up to date: Data science is a rapidly evolving field, and it is important to stay up to date with the latest technologies and techniques. Consider taking online courses or attending conferences to continue learning and staying current.
+
 
 ## Step 1. Mathematical & Computational Foundations
 
