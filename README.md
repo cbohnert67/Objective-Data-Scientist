@@ -10,11 +10,14 @@ With the explosion of available data and computational power, machine learning t
 
 It is a life long learning journey to get skilled as a Data Scientist. 
 
-One has to build solid foundatiosn either in applied mathematics and programming.
+One has consequently to build solid foundations either in applied mathematics and programming.
 
-This is hence the first step in your Data Science journey. Expect at least one year to learn these concepts and tools!
+This is hence the first step in your Data Science journey.
 
 ## Step 1. Mathematical & Computational Foundations
+
+Choose one or more material from each topic and expect at least one year to learn these concepts and tools!
+
 
 ### Multivariable Calculus: the mathematics of change in several dimensions.
 
