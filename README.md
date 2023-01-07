@@ -25,6 +25,12 @@ A solid foundation of mathematics is required to get ready for Data Science.
 ### Probability & Statistics
 
 
+
+### Applied Analysis
+
+[Applied Analysis](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html)
+
+
 ## Computational Foundations
 
 A solid foundation in computations is required to get ready for Data Science.
