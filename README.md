@@ -4,7 +4,7 @@
 
 Data Science is a new and complex field. It appears as an extension of statistical modeling and uses programming, software engineering and AI techniques to solve in domain expertise problems.
 
-*Data Scientist are better at statistics than any software engineer and better at software engineering than any statistician.*
+*Data Scientists are better at statistics than any software engineer and better at software engineering than any statistician.*
 
 Becoming a good data scientist requires a combination of education, skills, and experience. 
 
@@ -24,7 +24,7 @@ The curriculum is designed for a several years log journey in Data Science.
 
 I compiled best material (web and books) I find useful for that purpose. So let's get started and jump right into foundations!
 
-## Step 1. Mathematical & Computational Foundations
+## Year 1. Mathematical & Computational Foundations
 
 Choose one or more material from each topic and expect to work for at least one year in order to learn these concepts and tools well!
 
