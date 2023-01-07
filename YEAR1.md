@@ -1,4 +1,4 @@
-# Year 1. Mathematical & Computational Foundations
+# Year 1: Mathematical & Computational Foundations
 
 Choose one or more material from each topic. Expect to work for at least one year in order to learn these concepts and tools well!
 
