@@ -37,6 +37,8 @@ Multivariable calculus is a branch of mathematics that deals with functions of m
 
 [Multivariable & Vector Analysis](http://www.williamchen-mathematics.info/lnmvafolder/lnmva.html)
 
+[Advanced Calculus For Data Science](https://www.math.emory.edu/~mpcarr/math210/index.html)
+
 
 ### Linear Algebra:
 
