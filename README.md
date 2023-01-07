@@ -21,7 +21,7 @@ Stay up to date: Data science is a rapidly evolving field, and it is important t
 
 ## Step 1. Mathematical & Computational Foundations
 
-Choose one or more material from each topic and expect at least one year to learn these concepts and tools!
+Choose one or more material from each topic and expect to work for at least one year in order to learn these concepts and tools well!
 
 
 ### Multivariable Calculus:
@@ -92,6 +92,8 @@ The key concepts of numerical analysis include accuracy, stability, and efficien
 Numerical analysis has numerous applications in fields such as science, engineering, and finance. It is used to design and implement algorithms for solving problems involving continuous variables, such as those arising in scientific simulations, engineering design, and financial modeling. It is also used to analyze the behavior of algorithms and to understand the trade-offs between accuracy, stability, and efficiency.
 
 [Holistic Numerical Methods](https://nm.mathforcollege.com/)
+
+[Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/)
 
 ### Computational Thinking
 
