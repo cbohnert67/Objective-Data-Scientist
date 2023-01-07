@@ -22,6 +22,8 @@ Here are some requirements to improve your chances of success in this field:
 
 The curriculum is designed for a several years learning journey in Data Science. 
 
-I compiled best material (web and books) I find useful for that purpose. So let's get started and jump right into foundations!
+I compiled best material (web and books) I find useful for that purpose. 
+
+So let's get started and let's jump right into foundations!
 
 ### [Year 1 : Mathematical & Computational Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/YEAR1.md)
