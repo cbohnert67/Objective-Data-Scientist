@@ -20,7 +20,7 @@ Here are some requirements to improve your chances of success in this field:
 
 - Stay up to date: Data science is a rapidly evolving field, and it is important to stay up to date with the latest technologies and techniques. Consider taking online courses or attending conferences to continue learning and staying current.
 
-The curriculum is designed for a several years log journey in Data Science. 
+The curriculum is designed for a several years learning journey in Data Science. 
 
 I compiled best material (web and books) I find useful for that purpose. So let's get started and jump right into foundations!
 
