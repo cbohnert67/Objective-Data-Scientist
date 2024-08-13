@@ -35,6 +35,19 @@ Embracing multivariable calculus enriches your analytical skills, enabling you t
 
 [Advanced Calculus For Data Science](https://www.math.emory.edu/~mpcarr/math210/index.html)
 
+**Skills Expectations for Multivariable Calculus:**
+
+1. **Understanding Functions of Multiple Variables**: Ability to analyze and interpret functions involving more than one variable, including partial derivatives, gradients, and Hessians.
+
+2. **Vector Analysis**: Proficiency in applying vector calculus concepts such as divergence, curl, and line integrals to solve problems in higher-dimensional spaces.
+
+3. **Optimization in Multidimensional Space**: Skills in finding local and global extrema of functions using methods such as Lagrange multipliers and constrained optimization.
+
+4. **Integration Techniques**: Competence in evaluating multiple integrals (double and triple integrals) and using them for applications such as computing volumes and areas in multidimensional contexts.
+
+5. **Geometric Interpretation**: Skills in visualizing and interpreting geometric concepts in higher-dimensional spaces, such as surfaces, curves, and hyperplanes.
+
+6. **Advanced Calculus for Data Science**: Understanding how advanced calculus techniques, including partial differential equations and vector fields, are used in data analysis and predictive modeling.
 
 ## Linear Algebra:
 
