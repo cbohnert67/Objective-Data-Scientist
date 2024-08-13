@@ -36,6 +36,14 @@ Mathematical and computational foundations are crucial for a data scientist due 
    - **Algorithm Development**: Advancing the field of data science often involves developing new algorithms or improving existing ones. This requires a deep understanding of mathematical concepts and computational techniques.
    - **Problem Solving**: Complex data problems often require innovative solutions that are grounded in mathematical theory. A strong mathematical background enables data scientists to explore and apply novel approaches to data analysis and modeling.
 
+Data Science is often likened to the "Physics of Real Numbers," driven by the paradigm:
+
+$$ 
+MODEL := f(DATA, MATH TOOLS, COMPUTING POWER)
+$$
+
+Here, \( f \) represents a collection of logical and inquisitive formulations, or what we can call prompt formulations and functions. To develop a useful model for a specific task, you need to acquire both DATA and COMPUTING POWER, which can be scarce and costly. However, a crucial and accessible component is MATH TOOLS. By mastering mathematical concepts and tools, you can leverage them to build and refine models effectively, even in the absence of extensive data or computing resources.
+
 This selection is carefully curated to guide you through a comprehensive, multi-year learning journey in Data Science. It’s designed to support both beginners and those with some experience, providing a structured path to mastering the field over several years. I’ve gathered the most effective resources, including online materials and books, that I personally find invaluable for building deep expertise. These resources are chosen to help you develop the essential skills and knowledge needed to excel in data science, covering everything from foundational concepts to advanced techniques.
 
 ## Step 1 : Unlocking Data Science Potential: Mathematical Foundations and Computational Thinking as Essential Skills for Solving Complex Problems
