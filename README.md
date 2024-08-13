@@ -64,15 +64,9 @@ Mathematical foundations refer to the essential mathematical concepts and techni
 
 Computational thinking involves essential concepts and techniques that are critical for data science and related fields. This approach includes problem decomposition, pattern recognition, algorithm design, and abstraction, all of which help in breaking down complex problems and developing systematic solutions. Mastering computational thinking is crucial for designing efficient algorithms, automating processes, and solving data-driven challenges effectively.
 
-It’s generally beneficial to learn foundational math concepts before diving deeply into programming. Here’s why:
+Beware however! It’s generally beneficial to learn foundational math concepts before diving deeply into programming. Here’s why:
 
-1. **Understanding Core Concepts**: Mathematics provides the essential theories and principles that underpin many algorithms and data structures used in programming. Concepts like algebra, calculus, and statistics are foundational for developing efficient and effective code.
-
-2. **Problem-Solving Skills**: Learning math first helps build problem-solving skills and logical reasoning, which are crucial for writing and debugging code. It equips you with the ability to approach complex problems systematically.
-
-3. **Algorithmic Thinking**: Many programming tasks involve mathematical reasoning, from optimization problems to data analysis. A solid understanding of math allows you to better grasp and implement algorithms, making your programming more effective.
-
-4. **Enhanced Learning**: With a strong math foundation, learning programming concepts can be more intuitive, as you’ll be able to relate programming constructs to mathematical principles.
+Mathematics is crucial for programming as it underpins many algorithms and data structures, providing the foundation for effective code. Mastering math enhances problem-solving skills and logical reasoning, crucial for writing and debugging code. It also enables better understanding and implementation of algorithms, making programming more efficient and impactful. With a solid math background, learning programming becomes intuitive, as you can directly apply mathematical principles to code, facilitating a smoother and deeper grasp of complex tasks.
 
 However, basic programming skills can also be useful early on to apply mathematical concepts practically and build problem-solving confidence. Ideally, a balanced approach that integrates both math and programming progressively can be very effective. Devise and choose wisely. Expect two to three years of daily dedicated work!
 
