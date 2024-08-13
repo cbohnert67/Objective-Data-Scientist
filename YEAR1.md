@@ -1,6 +1,6 @@
 # Mathematical & Computational Foundations
 
-Choose one or more material from each topic. Expect to work for two to three years at as university student in order to learn these concepts and tools well!
+Choose one or more material from each topic. Expect to work for two to three years daily as a university student in order to learn these concepts and tools well!
 
 To master math foundations and conquer the fear of calculations, embrace these principles:
 
