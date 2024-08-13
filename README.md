@@ -1,4 +1,4 @@
-# Objective Data Scientist !
+# Objective Math for Data Science !
 
 **A carefully designed plan for becoming a good Data Scientist with Python.**
 
