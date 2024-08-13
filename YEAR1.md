@@ -1,6 +1,6 @@
-# Year 1: Mathematical & Computational Foundations
+# Mathematical & Computational Foundations
 
-Choose one or more material from each topic. Expect to work for at least one year in order to learn these concepts and tools well!
+Choose one or more material from each topic. Expect to work for two to three years at as university student in order to learn these concepts and tools well!
 
 
 ## Multivariable Calculus:
