@@ -1,4 +1,4 @@
-# Objective Math for Data Science !
+# Objective Math for Data Science: Going Up from High School to Master level! 
 
 **A carefully designed but AI powered pathway filled with guidelines of texts selected from authors and their notes in the web for learning and mastering concepts from the Math for Data Science.**
 
