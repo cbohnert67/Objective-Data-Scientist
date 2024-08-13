@@ -47,7 +47,7 @@ Computational thinking leverages the power of mathematics by translating complex
 ### [Guidelines and Resources for Unlocking Mathematical Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/mathematical-foundations.md)
 
 Mathematical foundations refer to the essential mathematical concepts and techniques that underpin data science and related fields. These include areas such as calculus, linear algebra, probability, and statistics, which provide the tools for analyzing data, modeling relationships, and solving complex problems systematically. Mastering these foundations is crucial for understanding algorithms, optimizing models, and making data-driven decisions.
-### [Guideliness and Resources for Unlocking Computational Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/computational-foundations.md)
+### [Guidelines and Resources for Unlocking Computational Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/computational-foundations.md)
 
 Computational thinking involves essential concepts and techniques that are critical for data science and related fields. This approach includes problem decomposition, pattern recognition, algorithm design, and abstraction, all of which help in breaking down complex problems and developing systematic solutions. Mastering computational thinking is crucial for designing efficient algorithms, automating processes, and solving data-driven challenges effectively.
 
