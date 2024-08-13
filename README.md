@@ -1,6 +1,6 @@
 # Objective Math for Data Science !
 
-**A carefully designed plan for becoming a good Data Scientist with Python.**
+**A carefully designed selection of texts from the web for becoming good at the Math for Data Science.**
 
 Data Science is a new and complex field. It appears as an extension of statistical modeling and uses programming, software engineering and AI techniques to solve in domain expertise problems.
 
