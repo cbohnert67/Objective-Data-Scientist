@@ -40,11 +40,9 @@ Mathematical and computational foundations are crucial for a data scientist due 
    - **Algorithm Development**: Advancing the field of data science often involves developing new algorithms or improving existing ones. This requires a deep understanding of mathematical concepts and computational techniques.
    - **Problem Solving**: Complex data problems often require innovative solutions that are grounded in mathematical theory. A strong mathematical background enables data scientists to explore and apply novel approaches to data analysis and modeling.
 
-The selection is designed for a several years active learning journey in Data Science. 
+This selection is carefully curated to guide you through a comprehensive, multi-year learning journey in Data Science. It’s designed to support both beginners and those with some experience, providing a structured path to mastering the field over several years. I’ve gathered the most effective resources, including online materials and books, that I personally find invaluable for building deep expertise. These resources are chosen to help you develop the essential skills and knowledge needed to excel in data science, covering everything from foundational concepts to advanced techniques.
 
-I compiled best material (web and books) I find useful for that purpose. 
-
-So let's get started and let's jump right into foundations!
+Learning mathematical foundations and computational thinking together is essential because they complement each other in solving complex problems. Mathematical foundations provide the theoretical framework and tools needed to understand patterns, structures, and relationships, while computational thinking enables the practical application of these concepts through algorithmic problem-solving and efficient data processing.
 
 ### [Mathematical Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/mathematical-foundations.md)
 ### [Computational Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/computational-foundations.md)
