@@ -46,5 +46,5 @@ I compiled best material (web and books) I find useful for that purpose.
 
 So let's get started and let's jump right into foundations!
 
-### [Mathematical Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/mathematical_foundations.md)
-### [Computational Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/computational_foundations.md)
+### [Mathematical Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/mathematical-foundations.md)
+### [Computational Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/computational-foundations.md)
