@@ -95,6 +95,16 @@ Furthermore, a solid grasp of probability and statistics enhances your analytica
 
 [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/)
 
+**Skills Expectations for Probability & Statistics:**
+
+1. **Understanding Probability Theory**: Ability to grasp fundamental probability concepts such as random variables, probability distributions, and statistical inference, which are crucial for modeling uncertainty and predicting outcomes.
+
+2. **Data Analysis and Interpretation**: Proficiency in applying statistical methods to summarize and analyze data, including calculating means, variances, and confidence intervals, and drawing meaningful conclusions from data sets.
+
+3. **Experimental Design and Hypothesis Testing**: Skills in designing experiments, performing hypothesis tests, and interpreting statistical results to validate models and ensure robust findings in fields such as machine learning and scientific research.
+
+4. **Application of Statistical Techniques**: Competence in using statistical techniques for practical applications, including regression analysis, Bayesian methods, and predictive modeling, to solve real-world problems and optimize decision-making processes.
+
 ## Mathematical Analysis:
 
 Mathematical analysis is a branch of mathematics that deals with the study of limits and the properties of functions. It is a broad subject that includes many subfields such as calculus, differential equations, and real analysis.
