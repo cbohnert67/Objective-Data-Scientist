@@ -2,11 +2,7 @@
 
 **A carefully designed selection of texts from the web for learning and mastering concepts from the Math for Data Science.**
 
-Data Science is a new and complex field. It appears as an extension of statistical modeling and uses programming, software engineering and AI techniques to solve in domain expertise problems.
-
-*Data Scientists are better at statistics than any software engineer and better at software engineering than any statistician.*
-
-Becoming a good data scientist requires a combination of education, skills, and experience. 
+Data Science is a dynamic and complex field that blends statistical modeling with programming, software engineering, and AI to solve domain-specific problems. Data Scientists excel in statistics and programming, combining the analytical prowess of statisticians with the technical skills of software engineers. To become a proficient data scientist, it's essential to integrate education, practical skills, and experience. Crucially, a strong foundation in mathematical and computational thinking is vital, as it underpins the ability to effectively model, analyze, and solve complex data problems.
 
 Mathematical and computational foundations are crucial for a data scientist due to the following reasons:
 
