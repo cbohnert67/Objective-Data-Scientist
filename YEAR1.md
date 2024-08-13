@@ -144,6 +144,24 @@ Additionally, numerical methods are essential for implementing efficient solutio
 
 [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/)
 
+**Skills Expectations for Numerical Methods:**
+
+1. **Algorithm Design and Implementation**: Ability to design, analyze, and implement algorithms for solving continuous-variable problems, including techniques like iterative methods, interpolation, and numerical integration.
+
+2. **Error Analysis and Convergence**: Proficiency in assessing error bounds and convergence properties of numerical methods to ensure the accuracy and stability of algorithms used in data analysis and simulations.
+
+3. **Numerical Linear Algebra**: Skills in applying numerical methods to linear algebra problems, including matrix computations and solving systems of linear equations, which are critical for data processing and optimization tasks.
+
+4. **Numerical Optimization**: Competence in using numerical optimization techniques to find optimal solutions for complex problems, including function minimization and constraint handling in machine learning and other applications.
+
+5. **Differential Equations**: Understanding and applying numerical methods to solve differential equations, which are often used in modeling dynamic systems and simulations in data science and engineering.
+
+6. **Large-Scale Simulations**: Ability to handle and perform large-scale simulations and computations efficiently, translating theoretical models into practical solutions for tasks such as data fitting and model training.
+
+7. **Practical Application**: Proficiency in implementing numerical methods for real-world data science applications, including machine learning, complex system simulations, and data analysis, to derive actionable insights and solutions.
+
+8. **Computational Accuracy**: Skills in ensuring computational accuracy by refining algorithms and minimizing errors, thereby improving the reliability of numerical approximations and results.
+
 ## Programming & Computational Thinking
 
 Computational thinking is a way of solving problems, designing systems, and understanding human behavior that draws on concepts fundamental to computer science. It involves breaking down a problem into smaller, more manageable pieces, identifying patterns and relationships that can help solve the problem, and using logical reasoning to come up with a solution. The goal of computational thinking is to take complex problems and find ways to solve them in a systematic, efficient way.
