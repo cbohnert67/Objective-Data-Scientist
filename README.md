@@ -59,5 +59,5 @@ It’s generally beneficial to learn foundational math concepts before diving de
 
 4. **Enhanced Learning**: With a strong math foundation, learning programming concepts can be more intuitive, as you’ll be able to relate programming constructs to mathematical principles.
 
-However, basic programming skills can also be useful early on to apply mathematical concepts practically and build problem-solving confidence. Ideally, a balanced approach that integrates both math and programming progressively can be very effective. Devise and choose wisely. Expect two to three years of dedicated work!
+However, basic programming skills can also be useful early on to apply mathematical concepts practically and build problem-solving confidence. Ideally, a balanced approach that integrates both math and programming progressively can be very effective. Devise and choose wisely. Expect two to three years of daily dedicated work!
 
