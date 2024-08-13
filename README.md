@@ -44,7 +44,12 @@ $$
 
 Here, \( f \) represents a collection of logical and inquisitive formulations, or what we can call prompt formulations and functions. To develop a useful model for a specific task, you need to acquire both DATA and COMPUTING POWER, which can be scarce and costly. However, a crucial and accessible component is MATH TOOLS. By mastering mathematical concepts and tools, you can leverage them to build and refine models effectively, even in the absence of extensive data or computing resources.
 
-This selection is carefully curated to guide you through a comprehensive, multi-year learning journey in Data Science. It’s designed to support both beginners and those with some experience, providing a structured path to mastering the field over several years. I’ve gathered the most effective resources, including online materials and books, that I personally find invaluable for building deep expertise. These resources are chosen to help you develop the essential skills and knowledge needed to excel in data science, covering everything from foundational concepts to advanced techniques.
+This selection is carefully curated to guide you through a comprehensive, multi-year learning journey in Data Science. It’s designed to support both beginners and those with some experience, providing a structured path to mastering the field over several years. I’ve gathered the most effective resources, including online materials and books, that I personally find invaluable for building deep expertise. These resources are chosen to help you develop the essential skills and knowledge needed to excel in data science, covering everything from foundational concepts to advanced techniques. That's why you will start from the basic high school math. This is Step 0. You will hopefully refreshing your learning skills as it will scratche surfaces and pose the more advanced concepts from foundational things like Mathematical Thinking and Computational Thinking. This is Step 1. Happy learning journey!
+
+## Step 0 : Refreshing your Learning Skills: Begin as a STEM Learner Powered by Artificial Intelligence
+
+
+
 
 ## Step 1 : Unlocking Data Science Potential: Mathematical Foundations and Computational Thinking as Essential Skills for Solving Complex Problems
 
