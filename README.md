@@ -38,7 +38,7 @@ Mathematical and computational foundations are crucial for a data scientist due 
 
 This selection is carefully curated to guide you through a comprehensive, multi-year learning journey in Data Science. It’s designed to support both beginners and those with some experience, providing a structured path to mastering the field over several years. I’ve gathered the most effective resources, including online materials and books, that I personally find invaluable for building deep expertise. These resources are chosen to help you develop the essential skills and knowledge needed to excel in data science, covering everything from foundational concepts to advanced techniques.
 
-## Step 1 : Unlocking Data Science Potential: Mathematical Foundations and Computational Thinking as Essential Skills for Solving Complex Problems"
+## Step 1 : Unlocking Data Science Potential: Mathematical Foundations and Computational Thinking as Essential Skills for Solving Complex Problems
 
 Learning mathematical foundations and computational thinking together is essential because they complement each other in solving complex problems. Mathematical foundations provide the theoretical framework and tools needed to understand patterns, structures, and relationships, while computational thinking enables the practical application of these concepts through algorithmic problem-solving and efficient data processing.
 
