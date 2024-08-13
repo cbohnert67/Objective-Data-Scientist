@@ -65,6 +65,18 @@ In addition to its theoretical significance, linear algebra simplifies complex s
 
 [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 
+**Skills Expectations for Linear Algebra:**
+
+1. **Understanding Vector Spaces**: Ability to work with vector spaces, including concepts like basis, dimension, and linear independence, to solve systems of linear equations and analyze multidimensional data.
+
+2. **Matrix Operations and Applications**: Proficiency in performing and applying matrix operations such as multiplication, inversion, and decomposition, crucial for data analysis, signal processing, and machine learning.
+
+3. **Linear Transformations**: Skills in understanding and applying linear transformations and their properties, including eigenvalues and eigenvectors, to optimize algorithms and model complex systems.
+
+4. **Solving Systems of Equations**: Competence in using matrix methods to solve systems of linear equations, including methods such as Gaussian elimination and least squares approximations.
+
+5. **Geometric Interpretation**: Skills in visualizing and interpreting geometric concepts related to linear algebra, such as vector projections, transformations, and spaces.
+
 ## Probability & Statistics:
 
 Probability and statistics are two closely related fields of study that deal with the collection, analysis, interpretation, presentation, and organization of data. Probability is the study of random events and the likelihood of their occurrence, while statistics is the application of probability theory to the collection and analysis of data.
