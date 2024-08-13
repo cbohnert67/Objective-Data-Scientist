@@ -117,6 +117,19 @@ Lastly, mathematical analysis aids in evaluating the efficiency and effectivenes
 
 [Applied Analysis](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html)
 
+**Skills Expectations for Mathematical Analysis:**
+
+1. **Understanding Limits and Continuity**: Ability to work with the concepts of limits, continuity, and differentiability, which are essential for analyzing and modeling the behavior of functions and ensuring the stability of algorithms.
+
+2. **Function Optimization**: Proficiency in applying optimization techniques to find optimal parameters and improve model performance, including gradient descent and other methods to refine machine learning algorithms and data processing techniques.
+
+3. **Convergence and Error Analysis**: Skills in examining convergence rates and error bounds to evaluate the efficiency and accuracy of models and algorithms, ensuring that they are reliable and computationally feasible.
+
+4. **Application to Complex Systems**: Competence in using mathematical analysis to model and understand complex data behaviors, which is crucial for handling large datasets and intricate relationships in data science and advanced analytics.
+
+5. **Advanced Calculus and Differential Equations**: Understanding and applying concepts from advanced calculus and differential equations to solve problems related to function behavior, optimization, and data analysis.
+
+
 ## Numerical Methods:
 
 Numerical analysis is a branch of mathematics that deals with the design, analysis, and implementation of algorithms for solving problems involving continuous variables. It is a broad subject that includes many subfields such as numerical linear algebra, numerical optimization, and numerical differential equations.
