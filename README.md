@@ -42,9 +42,22 @@ This selection is carefully curated to guide you through a comprehensive, multi-
 
 Learning mathematical foundations and computational thinking together is essential because they complement each other in solving complex problems. Mathematical foundations provide the theoretical framework and tools needed to understand patterns, structures, and relationships, while computational thinking enables the practical application of these concepts through algorithmic problem-solving and efficient data processing.
 
+Computational thinking leverages the power of mathematics by translating complex mathematical concepts into practical algorithms and models. It helps in breaking down problems into manageable components, recognizing patterns, and devising systematic solutions. However, mastering foundational math concepts is crucial because it provides the theoretical grounding needed to understand and apply these algorithms effectively. A solid grasp of mathematics ensures that computational approaches are based on robust principles, leading to more accurate and reliable problem-solving in various domains.
+
 ### [Mathematical Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/mathematical-foundations.md)
 
 Mathematical foundations refer to the essential mathematical concepts and techniques that underpin data science and related fields. These include areas such as calculus, linear algebra, probability, and statistics, which provide the tools for analyzing data, modeling relationships, and solving complex problems systematically. Mastering these foundations is crucial for understanding algorithms, optimizing models, and making data-driven decisions.
 ### [Computational Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/computational-foundations.md)
 
-Computational thinking involves breaking down complex problems into manageable parts, recognizing patterns, and applying logical reasoning to devise systematic solutions. In the context of computational mathematics and science, it means designing algorithms and models that can efficiently solve mathematical problems and simulate scientific phenomena. Programming is the practical skill that enables these solutions, allowing you to implement algorithms, run simulations, and analyze data. Together, computational thinking and programming provide the tools to address complex computational challenges and advance research across various scientific and engineering disciplines.
+It’s generally beneficial to learn foundational math concepts before diving deeply into programming. Here’s why:
+
+1. **Understanding Core Concepts**: Mathematics provides the essential theories and principles that underpin many algorithms and data structures used in programming. Concepts like algebra, calculus, and statistics are foundational for developing efficient and effective code.
+
+2. **Problem-Solving Skills**: Learning math first helps build problem-solving skills and logical reasoning, which are crucial for writing and debugging code. It equips you with the ability to approach complex problems systematically.
+
+3. **Algorithmic Thinking**: Many programming tasks involve mathematical reasoning, from optimization problems to data analysis. A solid understanding of math allows you to better grasp and implement algorithms, making your programming more effective.
+
+4. **Enhanced Learning**: With a strong math foundation, learning programming concepts can be more intuitive, as you’ll be able to relate programming constructs to mathematical principles.
+
+However, basic programming skills can also be useful early on to apply mathematical concepts practically and build problem-solving confidence. Ideally, a balanced approach that integrates both math and programming progressively can be very effective. Devise and choose wisely!
+
