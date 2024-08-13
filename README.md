@@ -8,22 +8,42 @@ Data Science is a new and complex field. It appears as an extension of statistic
 
 Becoming a good data scientist requires a combination of education, skills, and experience. 
 
-Here are some requirements to improve your chances of success in this field:
+Mathematical and computational foundations are crucial for a data scientist due to the following reasons:
 
-- Get a strong foundation in mathematics and computer science: Data science involves working with large amounts of data, and a strong foundation in mathematics and computer science is essential for understanding and applying statistical and machine learning techniques.
+### 1. **Understanding Data and Its Characteristics**
+   - **Statistics and Probability**: Data scientists must understand the statistical properties of data, including distributions, mean, median, variance, and the principles of probability. This knowledge helps in analyzing data, drawing inferences, and making predictions.
+   - **Descriptive Statistics**: Calculating and interpreting basic statistics such as measures of central tendency and dispersion are fundamental for summarizing and understanding data.
+   - **Inferential Statistics**: Techniques such as hypothesis testing and confidence intervals are essential for making decisions based on data.
 
-- Learn programming languages: Data scientists need to be proficient in at least one programming language, such as Python or R, in order to manipulate and analyze data. It is also helpful to have some knowledge of SQL for working with databases.
+### 2. **Model Building and Evaluation**
+   - **Linear Algebra**: Many machine learning algorithms rely on linear algebra concepts such as vectors, matrices, and tensor operations. For example, linear regression, principal component analysis (PCA), and various optimization methods require a solid understanding of linear algebra.
+   - **Calculus**: Differentiation and integration are crucial for understanding optimization algorithms used in training models. Gradient descent, a common optimization technique, relies on calculus to minimize loss functions and improve model accuracy.
+   - **Optimization**: The ability to formulate and solve optimization problems is critical for model tuning and improving performance. Understanding the underlying mathematical principles helps in selecting the right optimization methods and algorithms.
 
-- Acquire statistical and machine learning skills: Data science involves applying statistical and machine learning techniques to extract insights from data. It is important to have a good understanding of these techniques and be able to apply them effectively.
+### 3. **Algorithm Design and Complexity**
+   - **Algorithmic Thinking**: Data scientists need to design and implement algorithms efficiently. This requires knowledge of algorithmic complexity, data structures, and computational efficiency to ensure that models and processes run effectively.
+   - **Complexity Analysis**: Understanding the time and space complexity of algorithms helps in evaluating their efficiency and scalability. This knowledge is crucial when dealing with large datasets or designing real-time systems.
 
-- Gain experience: As with any field, experience is key to becoming a good data scientist. Consider taking on data science projects as part of your coursework or as a side project, and try to get internships or entry-level positions in the field to gain practical experience.
+### 4. **Data Manipulation and Analysis**
+   - **Computational Tools**: Proficiency in programming and computational tools (e.g., Python, R) is essential for data manipulation, analysis, and visualization. Mathematical and computational foundations support effective use of these tools.
+   - **Data Processing**: Efficient data cleaning, transformation, and processing require knowledge of computational techniques and algorithms. Understanding how to handle large-scale data and perform computations efficiently is key to successful data analysis.
 
-- Stay up to date: Data science is a rapidly evolving field, and it is important to stay up to date with the latest technologies and techniques. Consider taking online courses or attending conferences to continue learning and staying current.
+### 5. **Interpreting Results and Making Decisions**
+   - **Statistical Inference**: Data scientists use statistical methods to draw conclusions from data and assess the reliability of their findings. Understanding the mathematical basis of these methods ensures accurate and meaningful interpretation.
+   - **Model Evaluation**: Evaluating the performance of models involves statistical metrics and techniques. Knowledge of these techniques helps in selecting the right metrics and understanding model performance.
 
-The curriculum is designed for a several years learning journey in Data Science. 
+### 6. **Developing and Validating Models**
+   - **Machine Learning Algorithms**: Many machine learning algorithms are grounded in mathematical principles. Understanding the mathematics behind algorithms such as support vector machines, neural networks, and clustering methods is crucial for effective implementation and tuning.
+   - **Cross-Validation**: Techniques for validating models, such as cross-validation and bootstrap methods, are based on statistical principles and require a solid mathematical foundation.
+
+### 7. **Research and Innovation**
+   - **Algorithm Development**: Advancing the field of data science often involves developing new algorithms or improving existing ones. This requires a deep understanding of mathematical concepts and computational techniques.
+   - **Problem Solving**: Complex data problems often require innovative solutions that are grounded in mathematical theory. A strong mathematical background enables data scientists to explore and apply novel approaches to data analysis and modeling.
+
+The selection is designed for a several years active learning journey in Data Science. 
 
 I compiled best material (web and books) I find useful for that purpose. 
 
 So let's get started and let's jump right into foundations!
 
-### [Year 1 : Mathematical & Computational Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/YEAR1.md)
+### [Mathematical & Computational Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/YEAR1.md)
