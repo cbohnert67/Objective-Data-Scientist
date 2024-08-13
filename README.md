@@ -44,10 +44,12 @@ Learning mathematical foundations and computational thinking together is essenti
 
 Computational thinking leverages the power of mathematics by translating complex mathematical concepts into practical algorithms and models. It helps in breaking down problems into manageable components, recognizing patterns, and devising systematic solutions. However, mastering foundational math concepts is crucial because it provides the theoretical grounding needed to understand and apply these algorithms effectively. A solid grasp of mathematics ensures that computational approaches are based on robust principles, leading to more accurate and reliable problem-solving in various domains.
 
-### [Mathematical Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/mathematical-foundations.md)
+### [Guides and Resources for Unlocking Mathematical Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/mathematical-foundations.md)
 
 Mathematical foundations refer to the essential mathematical concepts and techniques that underpin data science and related fields. These include areas such as calculus, linear algebra, probability, and statistics, which provide the tools for analyzing data, modeling relationships, and solving complex problems systematically. Mastering these foundations is crucial for understanding algorithms, optimizing models, and making data-driven decisions.
-### [Computational Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/computational-foundations.md)
+### [Guides and Resources for Unlocking Computational Thinking Foundations](https://github.com/cbohnert67/Objective-Data-Scientist/blob/main/computational-foundations.md)
+
+Computational thinking involves essential concepts and techniques that are critical for data science and related fields. This approach includes problem decomposition, pattern recognition, algorithm design, and abstraction, all of which help in breaking down complex problems and developing systematic solutions. Mastering computational thinking is crucial for designing efficient algorithms, automating processes, and solving data-driven challenges effectively.
 
 It’s generally beneficial to learn foundational math concepts before diving deeply into programming. Here’s why:
 
